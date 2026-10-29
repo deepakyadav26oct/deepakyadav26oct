@@ -22,7 +22,6 @@ I enjoy building practical projects, learning new technologies, and improving my
 
 **Tools:** Git, GitHub, VS Code
 
-*Update this list to match the technologies you have actually used.*
 
 ## 📌 Featured Projects
 
@@ -42,11 +41,6 @@ A software project focused on remote patient monitoring.
 
 🔗 [View Project on GitHub](https://github.com/deepakyadav26oct/carewatch-remote-patient-monitoring)
 
-### 3. DPK Particle Animation
-
-A Python-based particle animation project.
-
-🔗 [Explore My GitHub Repositories](https://github.com/deepakyadav26oct?tab=repositories)
 
 ## 🎯 Current Goals
 
